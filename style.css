@@ -1,0 +1,38 @@
+body{
+    margin-top: 65px;
+    margin-left: 0;
+    padding: 0;
+    overflow-y: scroll;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    background-color: rgba(34, 34, 34, 0.98);
+    height: 25px;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: auto;
+    }
+    
+li {
+    display: inline;
+    color: white;
+    font-size: 20px;
+    padding: 40px;
+    letter-spacing: -1px;
+    font-family: "Arial", Verdana, sans-serif;    
+    }
+    
+
+iframe{
+    width: 100.5%;
+    height: 500px;
+    margin-right: 0;
+    position: fixed;
+    
+    overflow: auto;
+    }
